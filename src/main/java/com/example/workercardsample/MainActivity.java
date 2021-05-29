@@ -24,7 +24,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import java.util.ArrayList;
-
+////아아아메리카노
 public class MainActivity extends AppCompatActivity implements TextWatcher {
     private static final String TAG = MainActivity.class.getName ();
     SwipeRefreshLayout swipeRefreshLayout;
