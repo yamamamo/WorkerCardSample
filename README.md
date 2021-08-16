@@ -1,5 +1,5 @@
 # WorkerCardSample
 RecyclerView in RecyclerView Sample
 
-*Additional function
-CRUD, Drag & Drop 
+Additional function
+-CRUD, Drag & Drop 
