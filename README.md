@@ -1,3 +1,5 @@
 # WorkerCardSample
-test
-마 돌았나
+RecyclerView in RecyclerView Sample
+
+*Additional function
+CRUD, Drag & Drop 
